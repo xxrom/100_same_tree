@@ -1,4 +1,4 @@
-# 100_same_tree
+# 100_same_tree (89% - time, 100% - memory)
 from typing import List
 
 
